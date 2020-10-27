@@ -1,0 +1,8 @@
+name: SkillBattle
+version: ${project.version}
+main: com.jp.ray.spigot.skillbattle.SkillBattle
+
+commands:
+  skillbattle:
+    description: skill_battle command
+    permission: op
